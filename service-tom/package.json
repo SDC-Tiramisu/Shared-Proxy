@@ -42,7 +42,7 @@
     "styled-icons": "^9.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.41.2",
+    "webpack": "^5.94.0",
     "webpack-cli": "^3.3.12"
   }
 }
